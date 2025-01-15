@@ -1,0 +1,17 @@
+{
+  "max_rain_day": 3630,
+  "stats": [
+    {
+      "condition": "rain",
+      "count": 1208
+    },
+    {
+      "condition": "drought",
+      "count": 40
+    },
+    {
+      "condition": "normal",
+      "count": 2402
+    }
+  ]
+}

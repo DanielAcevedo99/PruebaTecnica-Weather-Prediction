@@ -20,6 +20,9 @@ Ejecuta el servidor Flask:
 python app.py
 
 6. Endpoints principales
+
 GET /api/weather/<day>: Condición meteorológica para un día específico.
+
 GET /api/weather/stats: Estadísticas generales.
+
 GET /api/weather/analysis: Análisis de períodos de sequía, lluvia y condiciones óptimas.
